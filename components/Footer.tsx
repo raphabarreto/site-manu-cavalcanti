@@ -36,7 +36,7 @@ export function Footer() {
 
   const handleWhatsAppClick = () => {
     const message = encodeURIComponent('Olá! Gostaria de conversar sobre edição de vídeos.');
-    const phone = '5511999999999'; // Substituir pelo número real
+    const phone = '5581992061207';
     window.open(`https://wa.me/${phone}?text=${message}`, '_blank');
   };
 

@@ -9,7 +9,7 @@ export function HeroSection() {
 
   const handleWhatsAppClick = () => {
     const message = encodeURIComponent(t('whatsappMessage'));
-    const phone = '5511999999999'; // Substituir pelo número real
+    const phone = '5581992061207';
     window.open(`https://wa.me/${phone}?text=${message}`, '_blank');
   };
 
@@ -22,13 +22,14 @@ export function HeroSection() {
       <div className="container mx-auto px-4 py-20 relative z-10">
         <div className="flex flex-col items-center text-center max-w-4xl mx-auto space-y-8">
           {/* Avatar */}
-          <div className="relative w-32 h-32 md:w-40 md:h-40 rounded-full overflow-hidden ring-4 ring-purple-500/50 shadow-2xl shadow-purple-500/50">
+          <div className="relative w-32 h-32 md:w-40 md:h-40 rounded-full overflow-hidden ring-4 ring-purple-500/50 shadow-2xl shadow-purple-500/50 bg-slate-800">
             <Image
-              src="/avatar.jpg"
+              src="/avatar.svg"
               alt="Manu Cavalcanti"
               fill
               className="object-cover"
               priority
+              unoptimized
             />
           </div>
 
