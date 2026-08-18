@@ -13,33 +13,88 @@ type PortfolioItem = {
   platform: 'youtube' | 'vimeo' | 'instagram';
 };
 
-// Dados de exemplo - substituir com dados reais
+// Portfólio real da Manu Cavalcanti
 const portfolioItems: PortfolioItem[] = [
   {
     id: '1',
-    title: 'Reel Dinâmico - Produto',
+    title: 'XAROLA',
     category: 'shorts',
-    thumbnail: '/portfolio/thumb-1.jpg',
-    videoUrl: 'https://youtube.com/shorts/example1',
+    thumbnail: 'https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/ad9b95211435831.Y3JvcCwyMzY5LDE4NTMsMCw5Nw.png',
+    videoUrl: 'https://www.behance.net/gallery/211435831/XAROLA',
     platform: 'youtube',
   },
   {
     id: '2',
-    title: 'Vídeo Longo - Tutorial',
+    title: 'Bladez',
     category: 'long',
-    thumbnail: '/portfolio/thumb-2.jpg',
-    videoUrl: 'https://youtube.com/watch?v=example2',
+    thumbnail: 'https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/f25cf1226171231.Y3JvcCwyNDAwLDE4NzcsMCwxNjE.png',
+    videoUrl: 'https://www.behance.net/gallery/226171231/Bladez',
     platform: 'youtube',
   },
   {
     id: '3',
-    title: 'Motion Graphics - Logo Reveal',
+    title: 'Myn',
     category: 'motion',
-    thumbnail: '/portfolio/thumb-3.jpg',
-    videoUrl: 'https://vimeo.com/example3',
-    platform: 'vimeo',
+    thumbnail: 'https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/80bb62230736521.Y3JvcCwyNDAwLDE4NzcsMCwxMjE.png',
+    videoUrl: 'https://www.behance.net/gallery/230736521/Myn',
+    platform: 'youtube',
   },
-  // Adicionar mais itens conforme necessário
+  {
+    id: '4',
+    title: 'oifrancine',
+    category: 'shorts',
+    thumbnail: 'https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/5f1e93226170321.Y3JvcCwyMzY5LDE4NTMsMCw5Nw.png',
+    videoUrl: 'https://www.behance.net/gallery/226170321/oifrancine',
+    platform: 'youtube',
+  },
+  {
+    id: '5',
+    title: 'Crocodilovlr',
+    category: 'motion',
+    thumbnail: 'https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/419ba4211434349.Y3JvcCwyMzY5LDE4NTMsMCw5Nw.png',
+    videoUrl: 'https://www.behance.net/gallery/211434349/Crocodilovlr',
+    platform: 'youtube',
+  },
+  {
+    id: '6',
+    title: 'Caligrafo',
+    category: 'long',
+    thumbnail: 'https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/f8c9ff230733483.Y3JvcCwyNDAwLDE4NzcsMCwxMjE.png',
+    videoUrl: 'https://www.behance.net/gallery/230733483/Caligrafo',
+    platform: 'youtube',
+  },
+  {
+    id: '7',
+    title: 'TrovinBala',
+    category: 'shorts',
+    thumbnail: 'https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/4fbb38230735679.Y3JvcCwyNDAwLDE4NzcsMCwxMjE.png',
+    videoUrl: 'https://www.behance.net/gallery/230735679/TrovinBala',
+    platform: 'youtube',
+  },
+  {
+    id: '8',
+    title: 'eaX Presidas',
+    category: 'long',
+    thumbnail: 'https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/e07a95224258087.Y3JvcCwyNDAwLDE4NzcsMCwxNjE.png',
+    videoUrl: 'https://www.behance.net/gallery/224258087/eaX-Presidas',
+    platform: 'youtube',
+  },
+  {
+    id: '9',
+    title: 'Miw_',
+    category: 'motion',
+    thumbnail: 'https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/5f0bd4219238651.Y3JvcCwyMzY5LDE4NTMsMCw5Nw.png',
+    videoUrl: 'https://www.behance.net/gallery/219238651/Miw_',
+    platform: 'youtube',
+  },
+  {
+    id: '10',
+    title: 'Viqsmvlr',
+    category: 'shorts',
+    thumbnail: 'https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/aa5da1230734595.Y3JvcCwyNDAwLDE4NzcsMCwxMjE.png',
+    videoUrl: 'https://www.behance.net/gallery/230734595/Viqsmvlr',
+    platform: 'youtube',
+  },
 ];
 
 export function PortfolioGrid() {
@@ -59,7 +114,7 @@ export function PortfolioGrid() {
 
   const getPlatformName = (platform: string) => {
     const names: Record<string, string> = {
-      youtube: 'YouTube',
+      youtube: 'Behance',
       vimeo: 'Vimeo',
       instagram: 'Instagram',
     };

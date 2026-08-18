@@ -24,7 +24,7 @@ export function HeroSection() {
           {/* Avatar */}
           <div className="relative w-32 h-32 md:w-40 md:h-40 rounded-full overflow-hidden ring-4 ring-purple-500/50 shadow-2xl shadow-purple-500/50">
             <Image
-              src="/avatar.svg"
+              src="/avatar.jpg"
               alt="Manu Cavalcanti"
               fill
               className="object-cover"
