@@ -1,0 +1,39 @@
+# Links do YouTube para o Portfólio
+
+Preencha os links do YouTube de cada projeto abaixo:
+
+```
+XAROLA - 
+
+Bladez - 
+
+Myn - 
+
+oifrancine - 
+
+Crocodilovlr - 
+
+Caligrafo - 
+
+TrovinBala - 
+
+eaX Presidas - 
+
+Miw_ - 
+
+Viqsmvlr - 
+```
+
+## Como pegar os links:
+
+1. Acesse seu Behance: https://www.behance.net/manucavalcannti
+2. Entre em cada projeto
+3. Copie o link do vídeo do YouTube que está no projeto
+4. Cole aqui ao lado do nome
+
+**Exemplo:**
+```
+XAROLA - https://youtube.com/watch?v=abc123
+```
+
+Quando terminar de preencher, me manda que eu atualizo no código!

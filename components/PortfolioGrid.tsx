@@ -13,14 +13,17 @@ type PortfolioItem = {
   platform: 'youtube' | 'vimeo' | 'instagram';
 };
 
-// Portfólio real da Manu Cavalcanti
+// TODO: Substituir os links do Behance pelos links do YouTube
+// Acesse cada projeto no Behance e copie o link do YouTube que está embedado
+// Formato: https://youtube.com/watch?v=XXXXXXXXXXX ou https://youtu.be/XXXXXXXXXXX
+
 const portfolioItems: PortfolioItem[] = [
   {
     id: '1',
     title: 'XAROLA',
     category: 'shorts',
     thumbnail: 'https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/ad9b95211435831.Y3JvcCwyMzY5LDE4NTMsMCw5Nw.png',
-    videoUrl: 'https://www.behance.net/gallery/211435831/XAROLA',
+    videoUrl: 'https://www.behance.net/gallery/211435831/XAROLA', // TODO: Substituir pelo link do YouTube
     platform: 'youtube',
   },
   {
@@ -28,7 +31,7 @@ const portfolioItems: PortfolioItem[] = [
     title: 'Bladez',
     category: 'long',
     thumbnail: 'https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/f25cf1226171231.Y3JvcCwyNDAwLDE4NzcsMCwxNjE.png',
-    videoUrl: 'https://www.behance.net/gallery/226171231/Bladez',
+    videoUrl: 'https://www.behance.net/gallery/226171231/Bladez', // TODO: Substituir pelo link do YouTube
     platform: 'youtube',
   },
   {
@@ -36,7 +39,7 @@ const portfolioItems: PortfolioItem[] = [
     title: 'Myn',
     category: 'motion',
     thumbnail: 'https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/80bb62230736521.Y3JvcCwyNDAwLDE4NzcsMCwxMjE.png',
-    videoUrl: 'https://www.behance.net/gallery/230736521/Myn',
+    videoUrl: 'https://www.behance.net/gallery/230736521/Myn', // TODO: Substituir pelo link do YouTube
     platform: 'youtube',
   },
   {
@@ -44,7 +47,7 @@ const portfolioItems: PortfolioItem[] = [
     title: 'oifrancine',
     category: 'shorts',
     thumbnail: 'https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/5f1e93226170321.Y3JvcCwyMzY5LDE4NTMsMCw5Nw.png',
-    videoUrl: 'https://www.behance.net/gallery/226170321/oifrancine',
+    videoUrl: 'https://www.behance.net/gallery/226170321/oifrancine', // TODO: Substituir pelo link do YouTube
     platform: 'youtube',
   },
   {
@@ -52,7 +55,7 @@ const portfolioItems: PortfolioItem[] = [
     title: 'Crocodilovlr',
     category: 'motion',
     thumbnail: 'https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/419ba4211434349.Y3JvcCwyMzY5LDE4NTMsMCw5Nw.png',
-    videoUrl: 'https://www.behance.net/gallery/211434349/Crocodilovlr',
+    videoUrl: 'https://www.behance.net/gallery/211434349/Crocodilovlr', // TODO: Substituir pelo link do YouTube
     platform: 'youtube',
   },
   {
@@ -60,7 +63,7 @@ const portfolioItems: PortfolioItem[] = [
     title: 'Caligrafo',
     category: 'long',
     thumbnail: 'https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/f8c9ff230733483.Y3JvcCwyNDAwLDE4NzcsMCwxMjE.png',
-    videoUrl: 'https://www.behance.net/gallery/230733483/Caligrafo',
+    videoUrl: 'https://www.behance.net/gallery/230733483/Caligrafo', // TODO: Substituir pelo link do YouTube
     platform: 'youtube',
   },
   {
@@ -68,7 +71,7 @@ const portfolioItems: PortfolioItem[] = [
     title: 'TrovinBala',
     category: 'shorts',
     thumbnail: 'https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/4fbb38230735679.Y3JvcCwyNDAwLDE4NzcsMCwxMjE.png',
-    videoUrl: 'https://www.behance.net/gallery/230735679/TrovinBala',
+    videoUrl: 'https://www.behance.net/gallery/230735679/TrovinBala', // TODO: Substituir pelo link do YouTube
     platform: 'youtube',
   },
   {
@@ -76,7 +79,7 @@ const portfolioItems: PortfolioItem[] = [
     title: 'eaX Presidas',
     category: 'long',
     thumbnail: 'https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/e07a95224258087.Y3JvcCwyNDAwLDE4NzcsMCwxNjE.png',
-    videoUrl: 'https://www.behance.net/gallery/224258087/eaX-Presidas',
+    videoUrl: 'https://www.behance.net/gallery/224258087/eaX-Presidas', // TODO: Substituir pelo link do YouTube
     platform: 'youtube',
   },
   {
@@ -84,7 +87,7 @@ const portfolioItems: PortfolioItem[] = [
     title: 'Miw_',
     category: 'motion',
     thumbnail: 'https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/5f0bd4219238651.Y3JvcCwyMzY5LDE4NTMsMCw5Nw.png',
-    videoUrl: 'https://www.behance.net/gallery/219238651/Miw_',
+    videoUrl: 'https://www.behance.net/gallery/219238651/Miw_', // TODO: Substituir pelo link do YouTube
     platform: 'youtube',
   },
   {
@@ -92,7 +95,7 @@ const portfolioItems: PortfolioItem[] = [
     title: 'Viqsmvlr',
     category: 'shorts',
     thumbnail: 'https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/aa5da1230734595.Y3JvcCwyNDAwLDE4NzcsMCwxMjE.png',
-    videoUrl: 'https://www.behance.net/gallery/230734595/Viqsmvlr',
+    videoUrl: 'https://www.behance.net/gallery/230734595/Viqsmvlr', // TODO: Substituir pelo link do YouTube
     platform: 'youtube',
   },
 ];
