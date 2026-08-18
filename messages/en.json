@@ -1,0 +1,132 @@
+{
+  "metadata": {
+    "title": "Manu Cavalcanti — Freelance Video Editor",
+    "description": "Dynamic and professional video editing for content creators. Reels, long-form videos, and monthly packages. Let's talk."
+  },
+  "hero": {
+    "title": "Video editing that",
+    "titleHighlight": "captures attention",
+    "subtitle": "I transform your raw content into dynamic, professional videos ready to go viral.",
+    "cta": "Request Quote",
+    "whatsappMessage": "Hi! I'd like to talk about video editing services."
+  },
+  "services": {
+    "title": "Services",
+    "subtitle": "From concept to final delivery, I offer complete editing solutions",
+    "shorts": {
+      "title": "Short Videos",
+      "subtitle": "Reels • TikTok • Shorts",
+      "description": "Dynamic editing focused on maximum retention. Fast cuts, stylized captions, impactful transitions, and sound design to hook viewers from start to finish.",
+      "features": [
+        "Animated and stylized captions",
+        "Music-synced cuts",
+        "Zoom effects and transitions",
+        "Professional color grading"
+      ]
+    },
+    "long": {
+      "title": "Long Videos",
+      "subtitle": "YouTube • Podcasts • Vlogs",
+      "description": "Engaging narrative with perfect pacing. Complete editing including intro/outro, graphics, B-roll, soundtrack, and cinematic color grading.",
+      "features": [
+        "Optimized narrative structure",
+        "Motion graphics and lower thirds",
+        "Professional audio mixing",
+        "Custom thumbnails"
+      ]
+    },
+    "packages": {
+      "title": "Monthly Packages",
+      "subtitle": "Continuous Solution",
+      "description": "For creators who publish regularly. Flexible packages with video count, delivery time, and unlimited revisions.",
+      "features": [
+        "Priority support",
+        "Scheduled delivery",
+        "Custom asset library",
+        "Progressive discount"
+      ]
+    }
+  },
+  "portfolio": {
+    "title": "Portfolio",
+    "subtitle": "Some of my recent work",
+    "filters": {
+      "all": "All",
+      "shorts": "Shorts/Reels",
+      "long": "Long Videos",
+      "motion": "Motion/VFX"
+    },
+    "watchOn": "Watch on"
+  },
+  "pricing": {
+    "title": "Packages & Investment",
+    "subtitle": "Choose the ideal plan for your publishing schedule",
+    "monthly": "month",
+    "per": "per",
+    "starter": {
+      "name": "Starter",
+      "price": "$100",
+      "description": "Perfect to get started",
+      "videos": "4 short videos/month",
+      "features": [
+        "Up to 60 seconds each",
+        "2 revisions per video",
+        "3 business days delivery",
+        "Captions included"
+      ]
+    },
+    "creator": {
+      "name": "Creator",
+      "price": "$240",
+      "description": "For regular creators",
+      "videos": "8 short videos or 2 long/month",
+      "popular": "Most Popular",
+      "features": [
+        "Mix of formats",
+        "3 revisions per video",
+        "2 business days delivery",
+        "Basic motion graphics",
+        "Custom thumbnails"
+      ]
+    },
+    "pro": {
+      "name": "Pro",
+      "price": "$500",
+      "description": "Intensive production",
+      "videos": "15 short videos or 4 long/month",
+      "features": [
+        "Any format",
+        "Unlimited revisions",
+        "24h delivery",
+        "Advanced motion graphics",
+        "Cinematic color grading",
+        "Exclusive asset library"
+      ]
+    },
+    "custom": {
+      "name": "Custom",
+      "price": "Upon request",
+      "description": "Personalized solutions",
+      "videos": "Custom volume",
+      "features": [
+        "Tailored plan",
+        "Exclusive dedication",
+        "Direct support",
+        "Team integration"
+      ]
+    },
+    "cta": "Choose Plan"
+  },
+  "footer": {
+    "tagline": "Professional video editing for content creators",
+    "social": "Social Media",
+    "contact": "Contact",
+    "email": "contact@manucavalcanti.com",
+    "whatsapp": "WhatsApp",
+    "rights": "All rights reserved."
+  },
+  "language": {
+    "pt": "Português",
+    "en": "English"
+  }
+}

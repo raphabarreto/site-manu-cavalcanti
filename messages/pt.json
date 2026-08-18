@@ -1,0 +1,132 @@
+{
+  "metadata": {
+    "title": "Manu Cavalcanti — Editora de Vídeo Freelance",
+    "description": "Edição de vídeo dinâmica e profissional para criadores de conteúdo. Reels, vídeos longos e pacotes mensais. Vamos conversar."
+  },
+  "hero": {
+    "title": "Edição de vídeo que",
+    "titleHighlight": "prende a atenção",
+    "subtitle": "Transformo seu conteúdo bruto em vídeos dinâmicos, profissionais e prontos para viralizar.",
+    "cta": "Solicitar Orçamento",
+    "whatsappMessage": "Olá! Gostaria de conversar sobre edição de vídeos."
+  },
+  "services": {
+    "title": "Serviços",
+    "subtitle": "Do conceito à entrega final, ofereço soluções completas de edição",
+    "shorts": {
+      "title": "Vídeos Curtos",
+      "subtitle": "Reels • TikTok • Shorts",
+      "description": "Edição dinâmica focada em retenção máxima. Cortes rápidos, legendas estilizadas, transições impactantes e sound design para prender do início ao fim.",
+      "features": [
+        "Legendas animadas e estilizadas",
+        "Cortes sincronizados com a música",
+        "Efeitos de zoom e transições",
+        "Color grading profissional"
+      ]
+    },
+    "long": {
+      "title": "Vídeos Longos",
+      "subtitle": "YouTube • Podcasts • Vlogs",
+      "description": "Narrativa envolvente com ritmo perfeito. Edição completa incluindo intro/outro, gráficos, B-roll, trilha sonora e color grading cinematográfico.",
+      "features": [
+        "Estrutura narrativa otimizada",
+        "Motion graphics e lower thirds",
+        "Mixagem de áudio profissional",
+        "Thumbnails personalizadas"
+      ]
+    },
+    "packages": {
+      "title": "Pacotes Mensais",
+      "subtitle": "Solução Contínua",
+      "description": "Para criadores que publicam regularmente. Pacotes flexíveis com número de vídeos, prazo de entrega e revisões ilimitadas.",
+      "features": [
+        "Atendimento prioritário",
+        "Entrega programada",
+        "Banco de assets personalizado",
+        "Desconto progressivo"
+      ]
+    }
+  },
+  "portfolio": {
+    "title": "Portfólio",
+    "subtitle": "Alguns dos meus trabalhos recentes",
+    "filters": {
+      "all": "Todos",
+      "shorts": "Shorts/Reels",
+      "long": "Vídeos Longos",
+      "motion": "Motion/VFX"
+    },
+    "watchOn": "Assistir no"
+  },
+  "pricing": {
+    "title": "Pacotes e Investimento",
+    "subtitle": "Escolha o plano ideal para o seu ritmo de publicação",
+    "monthly": "mês",
+    "per": "por",
+    "starter": {
+      "name": "Starter",
+      "price": "R$ 500",
+      "description": "Ideal para começar",
+      "videos": "4 vídeos curtos/mês",
+      "features": [
+        "Até 60 segundos cada",
+        "2 revisões por vídeo",
+        "Entrega em 3 dias úteis",
+        "Legendas inclusas"
+      ]
+    },
+    "creator": {
+      "name": "Creator",
+      "price": "R$ 1.200",
+      "description": "Para criadores regulares",
+      "videos": "8 vídeos curtos ou 2 longos/mês",
+      "popular": "Mais Popular",
+      "features": [
+        "Mix de formatos",
+        "3 revisões por vídeo",
+        "Entrega em 2 dias úteis",
+        "Motion graphics básico",
+        "Thumbnails personalizadas"
+      ]
+    },
+    "pro": {
+      "name": "Pro",
+      "price": "R$ 2.500",
+      "description": "Produção intensiva",
+      "videos": "15 vídeos curtos ou 4 longos/mês",
+      "features": [
+        "Qualquer formato",
+        "Revisões ilimitadas",
+        "Entrega em 24h",
+        "Motion graphics avançado",
+        "Color grading cinematográfico",
+        "Banco de assets exclusivo"
+      ]
+    },
+    "custom": {
+      "name": "Custom",
+      "price": "Sob consulta",
+      "description": "Soluções personalizadas",
+      "videos": "Volume personalizado",
+      "features": [
+        "Plano sob medida",
+        "Dedicação exclusiva",
+        "Suporte direto",
+        "Integração com seu time"
+      ]
+    },
+    "cta": "Escolher Plano"
+  },
+  "footer": {
+    "tagline": "Edição de vídeo profissional para criadores de conteúdo",
+    "social": "Redes Sociais",
+    "contact": "Contato",
+    "email": "contato@manucavalcanti.com",
+    "whatsapp": "WhatsApp",
+    "rights": "Todos os direitos reservados."
+  },
+  "language": {
+    "pt": "Português",
+    "en": "English"
+  }
+}

@@ -1,0 +1,28 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f172a;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#581c87;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0f172a;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  
+  <!-- Grid pattern -->
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(147, 51, 234, 0.2)" stroke-width="1"/>
+  </pattern>
+  <rect width="1200" height="630" fill="url(#grid)"/>
+  
+  <!-- Main content -->
+  <text x="600" y="250" font-family="Arial, sans-serif" font-size="80" font-weight="bold" fill="white" text-anchor="middle">Manu Cavalcanti</text>
+  <text x="600" y="330" font-family="Arial, sans-serif" font-size="36" fill="#e9d5ff" text-anchor="middle">Editora de Vídeo Freelance</text>
+  <text x="600" y="420" font-family="Arial, sans-serif" font-size="28" fill="#c4b5fd" text-anchor="middle">Edição dinâmica e profissional</text>
+  <text x="600" y="470" font-family="Arial, sans-serif" font-size="28" fill="#c4b5fd" text-anchor="middle">para criadores de conteúdo</text>
+  
+  <!-- Accent circle -->
+  <circle cx="200" cy="150" r="80" fill="none" stroke="#9333ea" stroke-width="3" opacity="0.3"/>
+  <circle cx="1000" cy="480" r="100" fill="none" stroke="#db2777" stroke-width="3" opacity="0.3"/>
+</svg>
